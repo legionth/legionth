@@ -9,10 +9,14 @@ The most of my time I do Web-related stuff.
 
 Check out some of my work
 
-[Twitter Client based on ReactPHP](https://github.com/legionth/serin) 
+[Twitter Client based on ReactPHP 🐦](https://github.com/legionth/serin) 
 
 
-[I helped a bit on the ReactPHP Server](https://github.com/reactphp/http) 
+[I helped a bit on the ReactPHP Server ⚒️](https://github.com/reactphp/http)
+
+
+[Worked on the Code for the eLearning platform ILIAS 📖](https://github.com/ILIAS-eLearning/ILIAS) 
+
 
 ### Wanna connect? 💬 
 
