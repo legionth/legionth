@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**legionth/legionth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Niels! I am a Software Developer currently located in Germany
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do I do? 💻 
+
+The most of my time I do Web-related stuff.
+
+Check out some of my work
+
+[Twitter Client based on ReactPHP](https://github.com/legionth/serin) 
+[I helped a bit on the ReactPHP Server](https://github.com/reactphp/http) 
+
+### Wanna connect? 💬 
+
+I organize a local Meetup here in Aachen.
+
+If you want to come to one of our events register here: https://www.meetup.com/Web-Engineering-Aachen/
+
+If you have other questions, you can find me on [Twitter 🐦](https://twitter.com/legionth)
+
